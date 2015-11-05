@@ -1,2 +1,2 @@
-# pure-css
+# Progressive Enhancement
 Progressive Enhancement Example
