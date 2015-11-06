@@ -1,4 +1,4 @@
-# Progressive Enhancement
+# Pure CSS
 
 This project is an experiment in creating pure CSS components. The entire page is built (responsively) with no dependencies or frameworks in order to see what is possible without relying on large libraries such as jQuery or Bootstrap. [View The Demo →](http://jonbest.ca/pe/)
 
