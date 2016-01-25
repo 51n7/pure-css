@@ -27,7 +27,7 @@ input,textarea,button{
 input[type="text"],
 input[type="email"],
 textarea{
-	font-family: 'HelveticaNeue';
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	border: 1px solid #ebebeb;
 	background: #f4f4f4;
@@ -73,7 +73,7 @@ a:hover{
 }
 
 h1,h2,h3,h4,h5,h6{
-	font-family: 'HelveticaNeue';
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	line-height: normal;
 	margin: 0px;
@@ -118,7 +118,7 @@ p small{
 }
 
 strong{
-	font-family: 'HelveticaNeue';
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: bold;
 }
 
@@ -169,7 +169,7 @@ img[src=""]{
 }
 
 .btn{
-	font-family: 'HelveticaNeue';
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 18px;
 	color: #fff;
@@ -629,7 +629,7 @@ label.select > ul{
  */
 label.select > ul > li span,
 label.select > ul > li a{
-	font-family: 'HelveticaNeue';
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	/*color: #afafaf;*/
 	text-transform: none;
